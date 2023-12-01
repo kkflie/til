@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   base: '/til/',
-  title: "TIL",
+  title: "TILL",
   description: "Today I learn",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
