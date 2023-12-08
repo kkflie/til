@@ -19,14 +19,14 @@ export default defineConfig({
           { text: 'http-protocol', link: 'http/http-protocol' },
           // { text: 'Runtime API Examples', link: '/api-examples' }
         ]
+      },
+      {
+        text: 'React',
+        items: [
+          { text: 'build your own react', link: 'react/build-your-own-react' },
+          // { text: 'Runtime API Examples', link: '/api-examples' }
+        ]
       }
-      // {
-      //   text: 'Examples',
-      //   items: [
-      //     { text: 'Markdown Examples', link: '/markdown-examples' },
-      //     { text: 'Runtime API Examples', link: '/api-examples' }
-      //   ]
-      // }
     ],
 
     socialLinks: [
